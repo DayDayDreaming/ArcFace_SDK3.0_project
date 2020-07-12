@@ -41,4 +41,4 @@ main.py不用管
 
 &ensp;&ensp;&ensp;&ensp;仅更新packaged包，请自行酌情修改原代码。
 
-&ensp;&ensp;&ensp;&ensp;添加 当检测人脸数量不为1时，不关闭摄像头，直到检测到人脸。可以考虑定时关闭
+&ensp;&ensp;&ensp;&ensp;添加 当检测人脸数量不为1时，不关闭摄像头，直到检测到人脸 的功能 可以考虑定时关闭
