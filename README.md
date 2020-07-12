@@ -6,4 +6,4 @@
 
 - localhost
 
-&ensp;&ensp;&ensp;&ensp;基于localhost的页面搭建
+&ensp;&ensp;&ensp;&ensp;基于localhost的页面搭建的酒店管理系统
