@@ -1,4 +1,4 @@
-# ArcFace_SDK3.0_project
+# ArcFace_SDK3.0_project 酒店管理系统
 
 - ArcFace-python-SDK3.0
 
@@ -7,3 +7,7 @@
 - localhost
 
 &ensp;&ensp;&ensp;&ensp;基于localhost的页面搭建的酒店管理系统
+
+
+
++ tips:execute函数中都需要修改执行程序的绝对路径
