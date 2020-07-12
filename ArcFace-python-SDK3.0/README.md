@@ -18,26 +18,27 @@ main.py不用管
 # 更新日志
 
 - 4.16更新：
-&ensp;&ensp;添加健身房，游泳池，餐厅人脸验证注册模块、签退模块，代码基本一致；
 
-&ensp;&ensp;详见pool/canteen/gym check/delete文件
+&ensp;&ensp;&ensp;&ensp;添加健身房，游泳池，餐厅人脸验证注册模块、签退模块，代码基本一致；
 
-&ensp;&ensp;如需使用，请安装pymysql
+&ensp;&ensp;&ensp;&ensp;详见pool/canteen/gym check/delete文件
 
-&ensp;&ensp;并对代码文件进行了整理删除，删除了main.py
+&ensp;&ensp;&ensp;&ensp;如需使用，请安装pymysql
 
-&ensp;&ensp;assert文件夹仅供自己调试使用，目前本包已经没有程序直接使用该文件夹
+&ensp;&ensp;&ensp;&ensp;并对代码文件进行了整理删除，删除了main.py
+
+&ensp;&ensp;&ensp;&ensp;assert文件夹仅供自己调试使用，目前本包已经没有程序直接使用该文件夹
 
 
-&ensp;&ensp;同时packaged因实际需要改为cmd指令输入形式，指令规则如下：
+&ensp;&ensp;&ensp;&ensp;同时packaged因实际需要改为cmd指令输入形式，指令规则如下：
 
-&ensp;&ensp;python test.py文件路径 需要存储的照片路径
+&ensp;&ensp;&ensp;&ensp;python test.py文件路径 需要存储的照片路径
 
-&ensp;&ensp;因此需要按照环境要求修改
+&ensp;&ensp;&ensp;&ensp;因此需要按照环境要求修改
 
 
 - 4.22更新：
 
-&ensp;&ensp;仅更新packaged包，请自行酌情修改原代码。
+&ensp;&ensp;&ensp;&ensp;仅更新packaged包，请自行酌情修改原代码。
 
-&ensp;&ensp;添加 当检测人脸数量不为1时，不关闭摄像头，直到检测到人脸。可以考虑定时关闭
+&ensp;&ensp;&ensp;&ensp;添加 当检测人脸数量不为1时，不关闭摄像头，直到检测到人脸。可以考虑定时关闭
